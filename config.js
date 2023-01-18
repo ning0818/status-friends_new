@@ -18,16 +18,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
-    },
-    {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/ning0818'
     },
     {
       text: 'Blog',
-      url: 'https://abo.xyz/'
+      url: 'https://www.yuanning0818.tk//'
     },
   ],
 };
